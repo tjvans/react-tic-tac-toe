@@ -1,12 +1,9 @@
+import {Square} from './components/Square.jsx'
 import './App.css'
 
 function App() {
-
-
   return (
-    <>
-      <button className="square">X</button>;
-    </>
+    <Square />
   )
 }
 
