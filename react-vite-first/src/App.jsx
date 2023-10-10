@@ -1,6 +1,6 @@
-import Board from './components/Board.jsx'
-import './App.css'
 import Game from './components/Game.jsx'
+import './App.css'
+
 
 function App() {
   return (

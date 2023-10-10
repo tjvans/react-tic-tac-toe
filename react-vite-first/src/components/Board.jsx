@@ -1,4 +1,3 @@
-import { useState } from "react"
 import Square from "./Square.jsx"
 
 export default function Board({xIsNext, squares, onPlay}) {
