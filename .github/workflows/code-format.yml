@@ -1,4 +1,4 @@
-name: code-format
+name: reusable code-format
 
 on: push
 
