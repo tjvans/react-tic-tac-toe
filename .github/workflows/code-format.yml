@@ -1,0 +1,7 @@
+name: code-format
+
+on: push
+
+jobs:
+  format-code:
+    uses: tjvans/github-config/.github/workflows/code-format.yml@main
